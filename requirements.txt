@@ -6,4 +6,4 @@ streamlit==1.50.0
 youtube-transcript-api==1.2.3 
 langchain-community==0.3.31 
 sentence-transformers==5.1.1  
-
+faiss-cpu==1.12.0
